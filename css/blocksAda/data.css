@@ -1,0 +1,14 @@
+@media (max-width: 1330px) {
+  .data-text {
+    padding: 0 20px; } }
+
+@media (max-width: 720px) {
+  .data-box {
+    display: flex;
+    flex-direction: column; }
+    .data-box__block:not(:first-child) {
+      margin-top: 20px; } }
+
+@media (max-width: 650px) {
+  .data-text {
+    padding: 0 20px; } }

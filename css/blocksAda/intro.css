@@ -1,0 +1,20 @@
+@media (max-width: 1314px) {
+  .intro-inner {
+    padding: 0 20px; } }
+
+@media (max-width: 1080px) {
+  .intro-inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding-top: 25px; } }
+
+.img-ada {
+  display: none; }
+
+@media (max-width: 600px) {
+  .intro-right__img {
+    display: none; }
+  .img-ada {
+    display: block; } }

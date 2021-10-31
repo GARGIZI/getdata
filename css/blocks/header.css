@@ -1,0 +1,12 @@
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 9px; }
+
+.header-menu__list {
+  list-style-type: none;
+  display: flex; }
+
+.header-menu__link {
+  text-decoration: none; }

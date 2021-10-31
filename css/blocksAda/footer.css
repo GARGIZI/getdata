@@ -1,0 +1,23 @@
+@media (max-width: 1325px) {
+  .footer-inner {
+    padding-left: 20px;
+    padding-right: 20px; } }
+
+@media (max-width: 1030px) {
+  .footer {
+    text-align: center; }
+    .footer-inner {
+      display: flex;
+      flex-direction: column;
+      align-items: center; }
+    .footer-left__soc {
+      display: flex;
+      justify-content: center; }
+    .footer-right-box {
+      display: flex;
+      flex-direction: column;
+      align-items: center; }
+      .footer-right-box__block {
+        margin-top: 30px; }
+        .footer-right-box__block:not(:first-child) {
+          margin-left: 0; } }
